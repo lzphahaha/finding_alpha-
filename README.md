@@ -1,2 +1,2 @@
-# finding_alpha-
+# finding_alpha_Chinese_version
 finding_alpha中文版
